@@ -1,0 +1,10 @@
+{
+  "name": "lambda-haos-to-alexa-skill",
+  "version": "1.0.0",
+  "author": "Russ Forster <rforster-dev>",
+  "description": "AWS Lambda function to expose Home Assistant devices to Alexa.",
+  "main": "index.mjs",
+  "engines": {
+    "node": "20.x"
+  }
+}
